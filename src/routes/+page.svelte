@@ -1,9 +1,10 @@
 <script>
   import GamemodeBanner from '@components/gamemode-banner.svelte';
+  import logo from '@static/tf2pickup.eu_logo_text-01.png';
 </script>
 
 <header class="header p-3">
-  <img src="tf2pickup.eu_logo_text-01.png" alt="tf2pickup.eu logo" class="h-[40px]" />
+  <img src={logo} alt="tf2pickup.eu logo" class="h-[40px]" />
 </header>
 
 <main class="grow w-100">

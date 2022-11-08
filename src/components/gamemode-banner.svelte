@@ -71,10 +71,10 @@
   }
 
   .gm9v9 {
-    @include gamemode-banner('9s_bg.png', #ea1557, #71afff);
+    @include gamemode-banner('/9s_bg.png', #ea1557, #71afff);
   }
 
   .gm6v6 {
-    @include gamemode-banner('6s_bg.png', #71afff, #ea1557);
+    @include gamemode-banner('/6s_bg.png', #71afff, #ea1557);
   }
 </style>
