@@ -8,13 +8,13 @@
 
 <main class="grow w-100">
   <div class="h-full columns-2 gap-0">
-    <GamemodeBanner gamemode="9v9" href="https://hl.tf2pickup.eu/"></GamemodeBanner>
-    <GamemodeBanner gamemode="6v6"></GamemodeBanner>
+    <GamemodeBanner gamemode="9v9" href="https://hl.tf2pickup.eu/" />
+    <GamemodeBanner gamemode="6v6" />
   </div>
 </main>
 
 <style lang="scss">
-header {
-  background-color: #0a1a33;
-}
+  header {
+    background-color: #0a1a33;
+  }
 </style>
